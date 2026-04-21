@@ -98,9 +98,12 @@ Aarya Dalvi: Core logic, OTP system, authentication, dashboards
 Aagam Lodaria: Priority engine, countdown timer system, deadline tracking
 Harsh Mane: Assignment management, All Assignments View, Subject Management, file uploads, chatbot, Database Design, documentation & testing
 🌐 GitHub Repository
+
 👉 View Project Repository
+
 1.  (https://github.com/aaryadalvi0807/Python-Miniproject-Remote-)
-2.  (https://github.com/Proacoder/Python-Project)
+2.  (https://github.com/Proacoder/Python-Project-Final)
+
 🎥 Project Demo Videos
 
 Aarya:
