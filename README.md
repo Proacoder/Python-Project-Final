@@ -93,10 +93,15 @@ Interact with chatbot for help on assignments, enlightenment on projects, etc.
 
 
 👥 Team Contributions
+
 MemberContributions
+
 Aarya Dalvi: Core logic, OTP system, authentication, dashboards
+
 Aagam Lodaria: Priority engine, countdown timer system, deadline tracking
+
 Harsh Mane: Assignment management, All Assignments View, Subject Management, file uploads, chatbot, Database Design, documentation & testing
+
 🌐 GitHub Repository
 
 👉 View Project Repository
